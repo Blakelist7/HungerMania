@@ -1,8 +1,8 @@
 # HungerMania
 
-![homePage](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/homePage.PNG)  
-![showPage](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/showPage.PNG)
-![clusterMap](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/clusterMap.PNG)  
+![homePage](https://raw.githubusercontent.com/Kanwal/hungermania/main/screenshots/homePage.PNG)  
+![showPage](https://raw.githubusercontent.com/Kanwal/hungermania/main/screenshots/showPage.PNG)
+![clusterMap](https://raw.githubusercontent.com/Kanwal/hungermania/main/screenshots/clusterMap.PNG)  
 
 
 [HungerMania](https://afternoon-brushlands-75563.herokuapp.com/) is a website where users can create and review restaurants. In order to review or create a restaurant, you must have an account.
@@ -23,7 +23,7 @@ This project is hosted online using heroku. Check it out => [hungermania](https:
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/Rishabhbafna/hungermania.git
+git clone https://github.com/Kanwal/hungermania.git
 cd yelpcamp
 npm install
 ```
