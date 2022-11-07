@@ -37,11 +37,11 @@ const seedDB = async ()=>{
             },
             images : [
                 {                     
-                    url : "https://res.cloudinary.com/rishabhbafna/image/upload/v1609855044/HungerMania/pqrzrofkwzgipsi8bios.jpg", 
+                    url : "https://res.cloudinary.com/dkxsz0e4u/image/upload/v1609855044/HungerMania/pqrzrofkwzgipsi8bis.jpg", 
                     filename : "HungerMania/pqrzrofkwzgipsi8bios" 
                 }, 
                 { 
-                    url : "https://res.cloudinary.com/rishabhbafna/image/upload/v1609855097/HungerMania/hpev39mmogdtkq8umvl2.jpg", 
+                    url : "https://res.cloudinary.com/dkxsz0e4u/image/upload/v1609855097/HungerMania/hpev39mmogdtkq8uml2.jpg", 
                     filename : "HungerMania/hpev39mmogdtkq8umvl2" 
                 } 
             ]
